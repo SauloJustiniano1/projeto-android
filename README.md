@@ -18,13 +18,13 @@
   </a>
 </div>
 
-<div>
+<div align="center">
   <img src=".github/preview.png" width="100%" />
 </div>
 
 ## 🖥️Projeto
 
-Esse projeto foi criado no capítulo 17 do curso de **HTML5 e CSS3** do [Curso em Video](https://www.cursoemvideo.com).
+Esse projeto foi criado no capítulo 17 do curso de **HTML5 e CSS3** do [**Curso em Video**](https://www.cursoemvideo.com).
 
 **🚀Tecnologias:**
 
